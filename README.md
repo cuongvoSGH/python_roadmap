@@ -4,47 +4,26 @@ A comprehensive guide to mastering Python programming, from beginner fundamental
 
 ## 📚 Overview
 
-This roadmap provides a structured learning path for Python development, covering essential concepts, best practices, and practical projects at each stage.
+This repository contains a structured learning path for Python development, covering essential concepts, best practices, and practical projects at each stage.
+
+- 📄 New: [Windows Python Roadmap for Finance and Accounting Students](WINDOWS_FINANCE_PYTHON_ROADMAP.md)
+- 📄 Part 1: [Python Setup and Workflow](PART1_PYTHON_SETUP.md)
+- 📄 Part 1 Additional Guide: [Pip, Python Files, and Common Errors](PART1_PYTHON_WORKFLOW.md)
+- 📁 Part 2: [Python Syntax and Coding Techniques](PART2_PYTHON_SYNTAX/INDEX.md)
+  - Section 1: [Basic Syntax and Values](PART2_PYTHON_SYNTAX/01_Basic_Syntax)
+  - Section 2: [Core Data Types](PART2_PYTHON_SYNTAX/02_Core_Data_Types)
+  - Section 3: [Control Flow](PART2_PYTHON_SYNTAX/03_Control_Flow)
+  - Section 4: [Loops](PART2_PYTHON_SYNTAX/04_Loops)
+  - Section 5: [Data Structures](PART2_PYTHON_SYNTAX/05_Data_Structures)
+  - Section 6: [Operations](PART2_PYTHON_SYNTAX/06_Operations)
+  - Section 7: [Functions and Modules](PART2_PYTHON_SYNTAX/07_Functions_Modules)
+  - Section 8: [Practical Coding Techniques](PART2_PYTHON_SYNTAX/08_Practical_Techniques)
 
 ## 🎯 Prerequisites
 
 - A computer with Python 3.8+ installed
 - Basic understanding of programming concepts (helpful but not required)
 - Text editor or IDE (VS Code, PyCharm, etc.)
-- Git and GitHub account
-
-## 🗺️ Roadmap Stages
-
-### Level 1: Beginner Fundamentals
-- [ ] Variables, data types, and operators
-- [ ] Control flow (if/else, loops)
-- [ ] Functions and scope
-- [ ] Lists, tuples, dictionaries, and sets
-- [ ] String manipulation
-- **Project:** Build a simple calculator or to-do list app
-
-### Level 2: Intermediate Concepts
-- [ ] Object-oriented programming (OOP)
-- [ ] Error handling and exceptions
-- [ ] File I/O and working with data
-- [ ] List comprehensions and generators
-- [ ] Modules and packages
-- **Project:** Create a file manager or data analyzer
-
-### Level 3: Advanced Topics
-- [ ] Decorators and context managers
-- [ ] Async programming
-- [ ] Testing (unittest, pytest)
-- [ ] Design patterns
-- [ ] Performance optimization
-- **Project:** Build a web scraper or CLI tool
-
-### Level 4: Specializations
-- [ ] Web development (Django, Flask, FastAPI)
-- [ ] Data science (NumPy, Pandas, Matplotlib)
-- [ ] Machine learning basics
-- [ ] Automation and scripting
-- [ ] Database integration
 
 ## 📖 Recommended Resources
 
