@@ -63,6 +63,36 @@ print("Amount:", amount)
   - `python my_script.py input.csv`
 - In your script, use `sys.argv` to read these values.
 
+## Working with Jupyter Notebook
+### Install Jupyter Notebook or Lab
+- Install in your Python environment:
+  - `pip install notebook`
+  - or `pip install jupyterlab`
+- In VS Code, install the **Jupyter** extension if it is not already installed.
+
+### Create and open notebooks
+1. In VS Code, create a new file and save it with the `.ipynb` extension.
+2. Open the notebook file and use the interactive notebook interface.
+3. Each notebook contains cells. Cells can be code or markdown.
+- Code cells run Python code.
+- Markdown cells hold text, headings, and instructions.
+
+### Running notebook cells
+1. Select a cell and press the Run button.
+2. In a code cell, the output appears directly below the cell.
+3. Use `Shift+Enter` to run the current cell and move to the next one.
+4. Use `Ctrl+Enter` to run the current cell and stay on it.
+
+### Notebook workflow tips
+- Keep your notebook saved often with `Ctrl+S`.
+- Use markdown cells to explain each step and show headings.
+- Restart the kernel and rerun cells if results seem inconsistent.
+- Use the variable explorer or `print(df.head())` in a code cell to inspect data.
+
+### When to use notebooks
+- Notebooks are great for data exploration, examples, and step-by-step analysis.
+- Use `.py` scripts for repeatable automation or production tasks.
+
 ## Common errors when installing Python
 
 ### 1. `python` is not recognized as an internal or external command
