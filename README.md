@@ -18,6 +18,12 @@ This repository contains a structured learning path for Python development, cove
   - Section 6: [Operations](PART2_PYTHON_SYNTAX/06_Operations)
   - Section 7: [Functions and Modules](PART2_PYTHON_SYNTAX/07_Functions_Modules)
   - Section 8: [Practical Coding Techniques](PART2_PYTHON_SYNTAX/08_Practical_Techniques)
+- 📁 Part 3: [Python Libraries for Finance and Data Analysis](PART3_PYTHON_LIBRARIES)
+  - Section 1: [Pandas](PART3_PYTHON_LIBRARIES/01_pandas)
+  - Section 2: [NumPy](PART3_PYTHON_LIBRARIES/02_numpy)
+  - Section 3: [Visualization](PART3_PYTHON_LIBRARIES/03_visualization)
+  - Section 4: [Excel Integration](PART3_PYTHON_LIBRARIES/04_excel_integration)
+  - Section 5: [Reconciliation Workflows](PART3_PYTHON_LIBRARIES/05_reconciliation_workflows)
 
 ## 🎯 Prerequisites
 
